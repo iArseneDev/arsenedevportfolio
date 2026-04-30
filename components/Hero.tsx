@@ -76,7 +76,7 @@ export default function Hero() {
               <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-br from-primary-400 to-primary-600 p-1">
                 <div className="w-full h-full rounded-full bg-dark-900 flex items-center justify-center overflow-hidden">
                   <Image
-                    src="/profile-placeholder.svg"
+                    src="/arsenedev.jpg"
                     alt="Developer Profile"
                     width={320}
                     height={320}
